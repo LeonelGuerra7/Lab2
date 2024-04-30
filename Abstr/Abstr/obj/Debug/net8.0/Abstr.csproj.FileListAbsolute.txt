@@ -1,0 +1,14 @@
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Abstr\Abstr\bin\Debug\net8.0\Abstr.exe
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Abstr\Abstr\bin\Debug\net8.0\Abstr.deps.json
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Abstr\Abstr\bin\Debug\net8.0\Abstr.runtimeconfig.json
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Abstr\Abstr\bin\Debug\net8.0\Abstr.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Abstr\Abstr\bin\Debug\net8.0\Abstr.pdb
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Abstr\Abstr\obj\Debug\net8.0\Abstr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Abstr\Abstr\obj\Debug\net8.0\Abstr.AssemblyInfoInputs.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Abstr\Abstr\obj\Debug\net8.0\Abstr.AssemblyInfo.cs
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Abstr\Abstr\obj\Debug\net8.0\Abstr.csproj.CoreCompileInputs.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Abstr\Abstr\obj\Debug\net8.0\Abstr.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Abstr\Abstr\obj\Debug\net8.0\refint\Abstr.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Abstr\Abstr\obj\Debug\net8.0\Abstr.pdb
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Abstr\Abstr\obj\Debug\net8.0\Abstr.genruntimeconfig.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Abstr\Abstr\obj\Debug\net8.0\ref\Abstr.dll

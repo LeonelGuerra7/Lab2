@@ -1,0 +1,14 @@
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Eventos\Eventos\bin\Debug\net8.0\Eventos.exe
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Eventos\Eventos\bin\Debug\net8.0\Eventos.deps.json
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Eventos\Eventos\bin\Debug\net8.0\Eventos.runtimeconfig.json
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Eventos\Eventos\bin\Debug\net8.0\Eventos.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Eventos\Eventos\bin\Debug\net8.0\Eventos.pdb
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Eventos\Eventos\obj\Debug\net8.0\Eventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Eventos\Eventos\obj\Debug\net8.0\Eventos.AssemblyInfoInputs.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Eventos\Eventos\obj\Debug\net8.0\Eventos.AssemblyInfo.cs
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Eventos\Eventos\obj\Debug\net8.0\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Eventos\Eventos\obj\Debug\net8.0\Eventos.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Eventos\Eventos\obj\Debug\net8.0\refint\Eventos.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Eventos\Eventos\obj\Debug\net8.0\Eventos.pdb
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Eventos\Eventos\obj\Debug\net8.0\Eventos.genruntimeconfig.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Eventos\Eventos\obj\Debug\net8.0\ref\Eventos.dll

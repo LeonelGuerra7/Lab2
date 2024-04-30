@@ -1,0 +1,14 @@
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Encapsulamiento\Encapsulamiento\bin\Debug\net8.0\Encapsulamiento.exe
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Encapsulamiento\Encapsulamiento\bin\Debug\net8.0\Encapsulamiento.deps.json
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Encapsulamiento\Encapsulamiento\bin\Debug\net8.0\Encapsulamiento.runtimeconfig.json
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Encapsulamiento\Encapsulamiento\bin\Debug\net8.0\Encapsulamiento.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Encapsulamiento\Encapsulamiento\bin\Debug\net8.0\Encapsulamiento.pdb
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Encapsulamiento\Encapsulamiento\obj\Debug\net8.0\Encapsulamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Encapsulamiento\Encapsulamiento\obj\Debug\net8.0\Encapsulamiento.AssemblyInfoInputs.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Encapsulamiento\Encapsulamiento\obj\Debug\net8.0\Encapsulamiento.AssemblyInfo.cs
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Encapsulamiento\Encapsulamiento\obj\Debug\net8.0\Encapsulamiento.csproj.CoreCompileInputs.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Encapsulamiento\Encapsulamiento\obj\Debug\net8.0\Encapsulamiento.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Encapsulamiento\Encapsulamiento\obj\Debug\net8.0\refint\Encapsulamiento.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Encapsulamiento\Encapsulamiento\obj\Debug\net8.0\Encapsulamiento.pdb
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Encapsulamiento\Encapsulamiento\obj\Debug\net8.0\Encapsulamiento.genruntimeconfig.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Encapsulamiento\Encapsulamiento\obj\Debug\net8.0\ref\Encapsulamiento.dll

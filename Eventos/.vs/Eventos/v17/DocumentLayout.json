@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leonel Guerra\\OneDrive\\Escritorio\\Laboratorio2\\Eventos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8982C59B-E33E-4D30-B526-E9D7A74B2B66}|Eventos\\Eventos.csproj|c:\\users\\leonel guerra\\onedrive\\escritorio\\laboratorio2\\eventos\\eventos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8982C59B-E33E-4D30-B526-E9D7A74B2B66}|Eventos\\Eventos.csproj|solutionrelative:eventos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8982C59B-E33E-4D30-B526-E9D7A74B2B66}|Eventos\\Eventos.csproj|c:\\users\\leonel guerra\\onedrive\\escritorio\\laboratorio2\\eventos\\eventos\\casa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8982C59B-E33E-4D30-B526-E9D7A74B2B66}|Eventos\\Eventos.csproj|solutionrelative:eventos\\casa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8982C59B-E33E-4D30-B526-E9D7A74B2B66}|Eventos\\Eventos.csproj|c:\\users\\leonel guerra\\onedrive\\escritorio\\laboratorio2\\eventos\\eventos\\alarma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8982C59B-E33E-4D30-B526-E9D7A74B2B66}|Eventos\\Eventos.csproj|solutionrelative:eventos\\alarma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Casa.cs",
+              "DocumentMoniker": "C:\\Users\\Leonel Guerra\\OneDrive\\Escritorio\\Laboratorio2\\Eventos\\Eventos\\Casa.cs",
+              "RelativeDocumentMoniker": "Eventos\\Casa.cs",
+              "ToolTip": "C:\\Users\\Leonel Guerra\\OneDrive\\Escritorio\\Laboratorio2\\Eventos\\Eventos\\Casa.cs",
+              "RelativeToolTip": "Eventos\\Casa.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T03:57:12.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Alarma.cs",
+              "DocumentMoniker": "C:\\Users\\Leonel Guerra\\OneDrive\\Escritorio\\Laboratorio2\\Eventos\\Eventos\\Alarma.cs",
+              "RelativeDocumentMoniker": "Eventos\\Alarma.cs",
+              "ToolTip": "C:\\Users\\Leonel Guerra\\OneDrive\\Escritorio\\Laboratorio2\\Eventos\\Eventos\\Alarma.cs",
+              "RelativeToolTip": "Eventos\\Alarma.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T03:56:31.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Leonel Guerra\\OneDrive\\Escritorio\\Laboratorio2\\Eventos\\Eventos\\Program.cs",
+              "RelativeDocumentMoniker": "Eventos\\Program.cs",
+              "ToolTip": "C:\\Users\\Leonel Guerra\\OneDrive\\Escritorio\\Laboratorio2\\Eventos\\Eventos\\Program.cs",
+              "RelativeToolTip": "Eventos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T03:56:07.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

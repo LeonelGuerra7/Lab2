@@ -1,0 +1,14 @@
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Delegados\Delegados\bin\Debug\net8.0\Delegados.exe
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Delegados\Delegados\bin\Debug\net8.0\Delegados.deps.json
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Delegados\Delegados\bin\Debug\net8.0\Delegados.runtimeconfig.json
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Delegados\Delegados\bin\Debug\net8.0\Delegados.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Delegados\Delegados\bin\Debug\net8.0\Delegados.pdb
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Delegados\Delegados\obj\Debug\net8.0\Delegados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Delegados\Delegados\obj\Debug\net8.0\Delegados.AssemblyInfoInputs.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Delegados\Delegados\obj\Debug\net8.0\Delegados.AssemblyInfo.cs
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Delegados\Delegados\obj\Debug\net8.0\Delegados.csproj.CoreCompileInputs.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Delegados\Delegados\obj\Debug\net8.0\Delegados.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Delegados\Delegados\obj\Debug\net8.0\refint\Delegados.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Delegados\Delegados\obj\Debug\net8.0\Delegados.pdb
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Delegados\Delegados\obj\Debug\net8.0\Delegados.genruntimeconfig.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\Laboratorio2\Delegados\Delegados\obj\Debug\net8.0\ref\Delegados.dll
